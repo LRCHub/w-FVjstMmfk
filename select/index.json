@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Cocoon",
+  "base_artist": "Myuk",
+  "createdAt": "2026-02-09T12:26:40.511921Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Cocoon-Eyed Baby",
+      "artist": "Moses Sumney",
+      "has_synced": true,
+      "path": "select/01_The_Cocoon-Eyed_Baby_Moses_Sumney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cocoon",
+      "artist": "Lil Keed",
+      "has_synced": false,
+      "path": "select/02_Cocoon_Lil_Keed.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cocoon",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/03_Cocoon_ASH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cocoon",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/04_Cocoon_Björk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cocoon (Radio Edit)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/05_Cocoon_(Radio_Edit)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cocoon - Retangled By Ensemble",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/06_Cocoon_-_Retangled_By_Ensemble_Björk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cocoon (Retangled by Ensemble)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_Cocoon_(Retangled_by_Ensemble)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cocoon",
+      "artist": "The Decemberists",
+      "has_synced": false,
+      "path": "select/08_Cocoon_The_Decemberists.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cuckoo Cocoon - Remastered 2008",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/09_Cuckoo_Cocoon_-_Remastered_2008_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cuckoo Cocoon",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/10_Cuckoo_Cocoon_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cocoon",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/11_Cocoon_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cocoon",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": true,
+      "path": "select/12_Cocoon_Siouxsie_and_the_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cuckoo Cocoon",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/13_Cuckoo_Cocoon_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Emotional Cocoon",
+      "artist": "Tearwave",
+      "has_synced": false,
+      "path": "select/14_Emotional_Cocoon_Tearwave.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cocoon",
+      "artist": "070 Shake",
+      "has_synced": true,
+      "path": "select/15_Cocoon_070_Shake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cocoon",
+      "artist": "Jack Johnson",
+      "has_synced": true,
+      "path": "select/16_Cocoon_Jack_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cocoon",
+      "artist": "Milky Chance",
+      "has_synced": true,
+      "path": "select/17_Cocoon_Milky_Chance.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cocoon",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/pl_01_Cocoon_Myuk.txt"
+    }
+  ]
+}
